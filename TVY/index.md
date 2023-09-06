@@ -1,52 +1,52 @@
-> Přidat
-> > Číselné soustavy
-> > > Celá a desetinná čísla
-> > Boolova algerba
-> > > Logické funkce
-> > > Minimalizace
-> > > Karnaughova mapa
-> > Polovodičové paměti
-> > > Rozdělení
-> > > Realizace buňky statické a dynamické paměti
-> > > R/W Cyklus vybrané buňky
-> > Architektura PC (Neumann, Harvard)
-> > > Typy
-> > > Porovnání
-> > > Použití
-> > Magnetický záznam
-> > > Princip činnosti
-> > > Disková pole (RAID 0, RAID 1, RAID 5)
-> > Záložní zdroje a zdroje pro PC
-> > > Principy a použití
-> > Vnitřní a vnější sběrnice PC
-> > > Rozdělení
-> > > Základní vlastnosti
-> > > Použití
-> > Vstupní zařizení
-> > > Klávesnice
-> > > Myši
-> > > Dotyková zařízení
-> > > Princip činnosti
-> > > účel použití
-> > > základní vlastnosti
-> > Laserové a LED tiskárny
-> > > Principy a technologie tisku
-> > > vlastnosti tiskáren
-> > Inkoustové tiskárny, plotry a skenery
-> > > druhy
-> > > principy činnosti
-> > > PPI
-> > > DPI
-> > > praktické využití
-> > Optická zařízení
-> > > Druhy
-> > > Princip činnosti
-> > Výstupní zobrazovací zařízení
-> > > CRT
-> > > Plazma
-> > > LCD, OLED
-> > > principy, vlastnosti
-> > Generace CPU, pracovní módy procesorů (později propojit i s OPS)
-> > > Reálný
-> > > Chráněný
-> > > Stránkování
+- Přidat
+	- Číselné soustavy
+		- Celá a desetinná čísla
+	- Boolova algerba
+		- Logické funkce
+		- Minimalizace
+		- Karnaughova mapa
+	- Polovodičové paměti
+		- Rozdělení
+		- Realizace buňky statické a dynamické paměti
+		- R/W Cyklus vybrané buňky
+	- Architektura PC (Neumann, Harvard)
+		- Typy
+		- Porovnání
+		- Použití
+	- Magnetický záznam
+		- Princip činnosti
+		- Disková pole (RAID 0, RAID 1, RAID 5)
+	- Záložní zdroje a zdroje pro PC
+		- Principy a použití
+	- Vnitřní a vnější sběrnice PC
+		- Rozdělení
+		- Základní vlastnosti
+		- Použití
+	- Vstupní zařízení
+		- Klávesnice
+		- Myši
+		- Dotyková zařízení
+		- Princip činnosti
+		- účel použití
+		- základní vlastnosti
+	- Laserové a LED tiskárny
+		- Principy a technologie tisku
+		- vlastnosti tiskáren
+	- Inkoustové tiskárny, plotry a skenery
+		- druhy
+		- principy činnosti
+		- PPI
+		- DPI
+		- praktické využití
+	- Optická zařízení
+		- Druhy
+		- Princip činnosti
+	- Výstupní zobrazovací zařízení
+		- CRT
+		- Plazma
+		- LCD, OLED
+		- principy, vlastnosti
+	- Generace CPU, pracovní módy procesorů (později propojit i s OPS)
+		- Reálný
+		- Chráněný
+		- Stránkování
