@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ICT/index.md",
+                "file": "Cestina/Cetba/Seznam.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ICT/index.md",
+                "file": "Cestina/Cetba/Seznam.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ICT/index.md",
+                "file": "Cestina/Cetba/Seznam.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ICT/index.md"
+                "file": "Cestina/Cetba/Seznam.md"
               }
             }
           }
@@ -148,8 +148,8 @@
   },
   "active": "90704cdc5c2e2c10",
   "lastOpenFiles": [
-    "Měření/index.md",
     "ICT/index.md",
+    "Měření/index.md",
     "Ekonomika/index.md",
     "Dějepis/index.md",
     "TVY/index.md",
