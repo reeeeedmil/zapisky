@@ -40,11 +40,18 @@
 ## Literatura 19. století
 ### Světová
 >Povídky - Edgar Allan Poe
+>
 >>>Jáma a kyvadlo
+>>>
 >>>Zlatý brouk
+>>>
 >>>Zánik domů Usherů
+>>>
 >>>Vražda v ulici Morgue
+>>>
 >>>Předčasný pohřeb
+
+
 >Hrabě Monte Cristo - Alexandre Dumas
 >Podivný případ Dr. Jekylla a pana Hyda - Robert Louis Stevenson
 ### Česká
