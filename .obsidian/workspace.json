@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TVY/ciselne_soustavy/binarni.md",
+                "file": "TVY/ciselne_soustavy/sestnactkova.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TVY/ciselne_soustavy/binarni.md",
+                "file": "TVY/ciselne_soustavy/sestnactkova.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TVY/ciselne_soustavy/binarni.md",
+                "file": "TVY/ciselne_soustavy/sestnactkova.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TVY/ciselne_soustavy/binarni.md"
+                "file": "TVY/ciselne_soustavy/sestnactkova.md"
               }
             }
           }
@@ -148,13 +148,13 @@
   },
   "active": "c23a2c267473b690",
   "lastOpenFiles": [
-    "TVY/ciselne_soustavy/desitkova.md",
-    "TVY/ciselne_soustavy/sestnactkova.md",
     "TVY/ciselne_soustavy/osmickova.md",
-    "TVY/booleova_algebra/logicke_funkce/AND.md",
-    "TVY/ciselne_soustavy/binarni.md",
-    "TVY/booleova_algebra/logicke_funkce/logicke_funkce.md",
+    "TVY/ciselne_soustavy/desitkova.md",
     "TVY/ciselne_soustavy/ciselne_soustavy.md",
+    "TVY/ciselne_soustavy/binarni.md",
+    "TVY/ciselne_soustavy/sestnactkova.md",
+    "TVY/booleova_algebra/logicke_funkce/AND.md",
+    "TVY/booleova_algebra/logicke_funkce/logicke_funkce.md",
     "TVY/TVY.md",
     "TVY/booleova_algebra/logicke_funkce/NOR.md",
     "TVY/booleova_algebra/booleova_algebra.md",
