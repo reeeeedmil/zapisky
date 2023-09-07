@@ -5,7 +5,5 @@
 - Může se použít na zkrácení výrazu dvojkové soustavy.
 
 Příklad čísla: $3B0F_{(16)}$
-
 Hodnoty mocnin: $3 * 16^3 + 11 * 16^2 + 0 * 16^1 + 15 * 16^0$
-
 Číslo v desítkové soustavě: $15119_{(10)}$
