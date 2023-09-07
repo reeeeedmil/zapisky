@@ -1,4 +1,4 @@
-#booleova_algebra
+#booleova_algebra #logicke_funkce
 # Logická funkce AND
 Funkce AND funguje jako logický součin.
 - $Y = A * B$

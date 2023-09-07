@@ -1,3 +1,4 @@
+#booleova_algebra 
 # Booleova algebra
 Booleova algebra (Booleova logika) je způsob rozhodování pravdivosti výstupu dle vstupu. Výstup může být modifikován pomocí logických funkcí. Vstup může být zjednodušen dle pravidel Booleovy algebry.
 Vstup i výstup booleovy algebry je pouze pravda/nepravda a je zapsán pomocí 0 a 1.

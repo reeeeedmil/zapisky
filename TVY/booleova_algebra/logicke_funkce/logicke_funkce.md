@@ -1,4 +1,4 @@
-#booleova_algebra
+#booleova_algebra #logicke_funkce
 # Logické funkce
 Logických funkcí není mnoho, ale dají se dohromady kombinovat na vytvoření velmi schopných počítačů. Jsou základem výpočetní techniky na které se staví vše ostatní.
 - [OR](./OR.md)

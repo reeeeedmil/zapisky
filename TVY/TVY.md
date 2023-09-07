@@ -4,10 +4,8 @@
 
 - Přidat
 	- Číselné soustavy
-		- Desítková
-		- Šestnáctková
+		- převody
 	- Booleova algerba
-		- Logické funkce
 		- Minimalizace
 		- Karnaughova mapa
 	- Polovodičové paměti

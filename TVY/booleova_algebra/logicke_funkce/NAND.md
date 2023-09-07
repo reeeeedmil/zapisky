@@ -1,4 +1,4 @@
-#booleova_algebra
+#booleova_algebra #logicke_funkce
 # Logická funkce NAND
 Funkce NAND funguje jako negace logického součinu. Je kombinací funkcí [NOT](./NOT.md) a [AND](./AND.md).
 - $Y = \frac{}{A * B}$

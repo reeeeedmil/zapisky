@@ -1,4 +1,4 @@
-#booleova_algebra
+#booleova_algebra #logicke_funkce
 # Logická funkce NOT
 Funkce NOT změní 1 na 0 nebo 0 na 1.
 - $Y = \bar{A}$

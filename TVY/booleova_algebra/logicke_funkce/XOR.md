@@ -1,4 +1,4 @@
-#booleova_algebra
+#booleova_algebra  #logicke_funkce
 # Logická funkce XOR
 Funkce XOR funguje jako nerovnost (neekvivalence).
 - $Y = A \oplus B$
