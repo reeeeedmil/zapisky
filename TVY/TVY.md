@@ -1,7 +1,12 @@
+# Přehled
+- [Číselné soustavy](./ciselne_soustavy/ciselne_soustavy)
+- [Booleova algebra](./booleova_algebra/booleova_algebra)
+
 - Přidat
 	- Číselné soustavy
-		- Celá a desetinná čísla
-	- Boolova algerba
+		- Desítková
+		- Šestnáctková
+	- Booleova algerba
 		- Logické funkce
 		- Minimalizace
 		- Karnaughova mapa

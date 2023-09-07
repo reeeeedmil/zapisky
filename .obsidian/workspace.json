@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TVY/index.md",
+                "file": "TVY/booleova_algebra/logicke_funkce/logicke_funkce.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TVY/index.md",
+                "file": "TVY/booleova_algebra/logicke_funkce/logicke_funkce.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TVY/index.md",
+                "file": "TVY/booleova_algebra/logicke_funkce/logicke_funkce.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TVY/index.md"
+                "file": "TVY/booleova_algebra/logicke_funkce/logicke_funkce.md"
               }
             }
           }
@@ -148,14 +148,26 @@
   },
   "active": "c23a2c267473b690",
   "lastOpenFiles": [
+    "TVY/booleova_algebra/logicke_funkce/NOT.md",
+    "TVY/booleova_algebra/logicke_funkce/logicke_funkce.md",
+    "TVY/booleova_algebra/booleova_algebra.md",
+    "TVY/booleova_algebra/logicke_funkce/AND.md",
+    "TVY/booleova_algebra/logicke_funkce/OR.md",
+    "TVY/booleova_algebra/pravidla_zjednodusovani",
+    "TVY/booleova_algebra/logicke_funkce",
+    "TVY/ciselne_soustavy/binarni.md",
+    "TVY/ciselne_soustavy/osmickova.md",
+    "TVY/ciselne_soustavy/ciselne_soustavy.md",
+    "TVY/TVY.md",
+    "TVY/booleova_algebra",
+    "ICT/index.md",
+    "TVY/ciselne_soustavy",
     "Cestina/index.md",
     "Cestina/Cetba/Seznam.md",
-    "ICT/index.md",
+    "OPS/index.md",
     "Měření/index.md",
     "Ekonomika/index.md",
     "Dějepis/index.md",
-    "TVY/index.md",
-    "OPS/index.md",
     "Čeština/index.md",
     "Seznam.pdf",
     "Sítě/index.md",
@@ -168,10 +180,6 @@
     "Čeština/Četba/aasd.md",
     "cetba/Seznam.md",
     "cetba",
-    "TVY",
-    "ICT",
-    "Ekonomika",
-    "Dějepis",
-    "OPS"
+    "TVY"
   ]
 }
