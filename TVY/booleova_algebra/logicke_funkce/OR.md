@@ -1,3 +1,4 @@
+#booleova_algebra
 # Logická funkce OR
 Funkce OR funguje jako logický součet.
 - $Y = A + B$

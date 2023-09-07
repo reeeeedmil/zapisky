@@ -1,3 +1,4 @@
+#booleova_algebra
 # Logická funkce AND
 Funkce OR funguje jako logický součin.
 - $Y = A * B$
