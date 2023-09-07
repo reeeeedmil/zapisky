@@ -6,4 +6,4 @@ Logických funkcí není mnoho, ale dají se dohromady kombinovat na vytvoření
 - [NOT](./NOT.md)
 - [XOR](./XOR.md)
 - [NAND](./NAND.md)
-- NOR
+- [NOR](./NOR.md)

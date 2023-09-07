@@ -1,6 +1,6 @@
 #booleova_algebra
 # Logická funkce XOR
-Funkce OR funguje jako nerovnost (neekvivalence).
+Funkce XOR funguje jako nerovnost (neekvivalence).
 - $Y = A \oplus B$
 Pravdivostní tabulka XOR pro 2 vstupy:
 

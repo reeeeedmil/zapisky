@@ -1,6 +1,6 @@
 #booleova_algebra
 # Logická funkce NAND
-Funkce OR funguje jako logický součin.
+Funkce NAND funguje jako negace logického součinu. Je kombinací funkcí [NOT](./NOT.md) a [AND](./AND.md).
 - $Y = \frac{}{A * B}$
 Pravdivostní tabulka NAND pro 3 vstupy:
 

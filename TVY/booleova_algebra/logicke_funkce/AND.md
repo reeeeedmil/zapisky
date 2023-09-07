@@ -1,6 +1,6 @@
 #booleova_algebra
 # Logická funkce AND
-Funkce OR funguje jako logický součin.
+Funkce AND funguje jako logický součin.
 - $Y = A * B$
 Pravdivostní tabulka AND pro 3 vstupy:
 
