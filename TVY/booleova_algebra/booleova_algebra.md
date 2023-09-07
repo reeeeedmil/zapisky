@@ -13,7 +13,7 @@ Příklad pravdivostní tabulky pro funkci OR:
 |1|1|1|
 
 Vstupy jsou A a B, výstupem je Y.
-- [Logické funkce](./logicke_funkce/logicke_funkce)
+- [Logické funkce](./logicke_funkce/logicke_funkce.md)
 	- OR (logický součet)
 	- AND (logická součin)
 	- NOT (negace)

@@ -1,7 +1,7 @@
 Číselné soustavy slouží k vyjádření množství. Dělí se na poziční a nepoziční soustavy.
 - Poziční 
-	- [Dvojková](./binarni) (binární, $X_{(2)}$)
-	- [Osmičková](./osmickova) (oktálová, $X_{(8)}$)
+	- [Dvojková](./binarni.md) (binární, $X_{(2)}$)
+	- [Osmičková](./osmickova.md) (oktálová, $X_{(8)}$)
 	- Desítková (decimální, $X_{(10)}$)
 	- Dvanáctková (nepoužívá se, zbylo z ní slovo "tucet", $X_{(12)}$)
 	- Šestnáctková (hexadecimální, $X_{(16)}$)
