@@ -19,7 +19,7 @@ Vstupy jsou A a B, výstupem je Y.
 	- AND (logická součin)
 	- NOT (negace)
 	- XOR (Exkluzivní součet)
-- Pravidla zjednodušování:
+- [Pravidla zjednodušování (minimalizace)](./pravidla_zjednodusovani/pravidla_zjednodusovani.md):
 	- Komutativní
 	- Asociativní
 	- Distributivní

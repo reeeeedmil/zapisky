@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "037787be1a31d4bc",
+        "id": "423b61dd0b67d774",
         "type": "tabs",
         "children": [
           {
-            "id": "e3fb4fb59abe959b",
+            "id": "3cf5059f661c1100",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ekonomika/uvod/01-08092023.md",
+                "file": "TVY/booleova_algebra/pravidla_zjednodusovani/pravidla_zjednodusovani.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ekonomika/uvod/01-08092023.md",
+                "file": "TVY/booleova_algebra/pravidla_zjednodusovani/pravidla_zjednodusovani.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Ekonomika/uvod/01-08092023.md",
+                "file": "TVY/booleova_algebra/pravidla_zjednodusovani/pravidla_zjednodusovani.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,11 +125,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Ekonomika/uvod/01-08092023.md"
+                "file": "TVY/booleova_algebra/pravidla_zjednodusovani/pravidla_zjednodusovani.md"
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -143,46 +144,47 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "2f0e2e4a175be5e4",
+  "active": "60b808afa844ff3d",
   "lastOpenFiles": [
-    "Ekonomika/uvod",
-    "OPS/index.md",
+    "TVY/booleova_algebra/pravidla_zjednodusovani/dvojita_negace.md",
+    "TVY/booleova_algebra/pravidla_zjednodusovani/pravidla_zjednodusovani.md",
+    "TVY/booleova_algebra/pravidla_zjednodusovani/zakon_agresivnosti.md",
+    "TVY/booleova_algebra/pravidla_zjednodusovani/distributivni.md",
+    "TVY/booleova_algebra/pravidla_zjednodusovani/komutativni.md",
+    "TVY/booleova_algebra/pravidla_zjednodusovani/asociativni.md",
+    "TVY/booleova_algebra/booleova_algebra.md",
+    "TVY/TVY.md",
+    "Site/vrstvy/TCP-IP/TCP-IP.md",
+    "Cestina/Literatura/pracovni-list-08-09-2023.md",
+    "Dejepis/index.md",
+    "Dejepis/01-08092023.md",
+    "Ekonomika/index.md",
     "Ekonomika/uvod/01-08092023.md",
     "ICT/index.md",
-    "Cestina/Literatura/pracovni-list-08-09-2023.md",
+    "Mereni/index.md",
+    "OPS/index.md",
+    "postup vypoctu.md",
     "Site/PSB.md",
     "Site/vrstvy/vrstvy.md",
-    "Site/vrstvy/TCP-IP/TCP-IP.md",
+    "TVY/ciselne_soustavy/binarni.md",
+    "TVY/ciselne_soustavy/ciselne_soustavy.md",
+    "TVY/ciselne_soustavy/desitkova.md",
+    "TVY/ciselne_soustavy/osmickova.md",
+    "TVY/ciselne_soustavy/sestnactkova.md",
+    "TVY/booleova_algebra/logicke_funkce/AND.md",
+    "Untitled",
+    "Dejepis/Untitled",
+    "Ekonomika/uvod",
     "Site/vrstvy/TCP-IP",
     "Site/vrstvy",
-    "Cestina/index.md",
     "Cestina/Literatura",
-    "TVY/TVY.md",
-    "TVY/booleova_algebra/logicke_funkce/NAND.md",
-    "TVY/booleova_algebra/logicke_funkce/logicke_funkce.md",
-    "TVY/booleova_algebra/booleova_algebra.md",
-    "TVY/ciselne_soustavy/sestnactkova.md",
-    "TVY/ciselne_soustavy/osmickova.md",
-    "TVY/ciselne_soustavy/desitkova.md",
-    "TVY/ciselne_soustavy/ciselne_soustavy.md",
-    "TVY/ciselne_soustavy/binarni.md",
-    "TVY/booleova_algebra/logicke_funkce/AND.md",
-    "TVY/booleova_algebra/logicke_funkce/NOR.md",
-    "TVY/booleova_algebra/logicke_funkce/OR.md",
-    "TVY/booleova_algebra/logicke_funkce/NOT.md",
-    "TVY/booleova_algebra/logicke_funkce/XOR.md",
     "TVY/booleova_algebra/pravidla_zjednodusovani",
     "TVY/booleova_algebra/logicke_funkce",
     "TVY/booleova_algebra",
-    "TVY/ciselne_soustavy",
-    "Cestina/Cetba/Seznam.md",
-    "Měření/index.md",
-    "Ekonomika/index.md",
-    "Seznam.pdf",
-    "Čeština/Četba/seznam (2).pdf",
-    "Čeština/Četba/seznam.pdf"
+    "TVY/ciselne_soustavy"
   ]
 }
