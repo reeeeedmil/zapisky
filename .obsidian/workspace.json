@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cestina/Literatura/pracovni-list-08-09-2023.md",
+                "file": "Ekonomika/uvod/01-08092023.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cestina/Literatura/pracovni-list-08-09-2023.md",
+                "file": "Ekonomika/uvod/01-08092023.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Cestina/Literatura/pracovni-list-08-09-2023.md",
+                "file": "Ekonomika/uvod/01-08092023.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Cestina/Literatura/pracovni-list-08-09-2023.md"
+                "file": "Ekonomika/uvod/01-08092023.md"
               }
             }
           }
@@ -146,16 +146,18 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e3fb4fb59abe959b",
+  "active": "2f0e2e4a175be5e4",
   "lastOpenFiles": [
-    "Site/PSB.md",
+    "Ekonomika/uvod",
     "OPS/index.md",
+    "Ekonomika/uvod/01-08092023.md",
+    "ICT/index.md",
+    "Cestina/Literatura/pracovni-list-08-09-2023.md",
+    "Site/PSB.md",
     "Site/vrstvy/vrstvy.md",
     "Site/vrstvy/TCP-IP/TCP-IP.md",
     "Site/vrstvy/TCP-IP",
     "Site/vrstvy",
-    "ICT/index.md",
-    "Cestina/Literatura/pracovni-list-08-09-2023.md",
     "Cestina/index.md",
     "Cestina/Literatura",
     "TVY/TVY.md",
@@ -179,8 +181,6 @@
     "Cestina/Cetba/Seznam.md",
     "Měření/index.md",
     "Ekonomika/index.md",
-    "Dějepis/index.md",
-    "Čeština/index.md",
     "Seznam.pdf",
     "Čeština/Četba/seznam (2).pdf",
     "Čeština/Četba/seznam.pdf"
