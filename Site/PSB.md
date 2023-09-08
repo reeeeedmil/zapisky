@@ -3,6 +3,7 @@
 	- ISO/OSI
 
 - přidat
+	- informace o zařízení (MAC adresy etc.)
 	- Jak počítat podsítě
 	- Popis protokolů
 	- vrstvy (ISO OSI, TCP/IP)
