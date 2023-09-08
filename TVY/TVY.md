@@ -1,6 +1,6 @@
 # Přehled
-- [Číselné soustavy](./ciselne_soustavy/ciselne_soustavy)
-- [Booleova algebra](./booleova_algebra/booleova_algebra)
+- [Číselné soustavy](./ciselne_soustavy/ciselne_soustavy.md)
+- [Booleova algebra](./booleova_algebra/booleova_algebra.md)
 
 - Přidat
 	- Číselné soustavy
