@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "10a9b34172a16323",
+        "id": "037787be1a31d4bc",
         "type": "tabs",
         "children": [
           {
-            "id": "f9a5b55d5f1825bc",
+            "id": "e3fb4fb59abe959b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TVY/TVY.md",
+                "file": "OPS/index.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TVY/TVY.md",
+                "file": "OPS/index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TVY/TVY.md",
+                "file": "OPS/index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TVY/TVY.md"
+                "file": "OPS/index.md"
               }
             }
           }
@@ -146,20 +146,20 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f9a5b55d5f1825bc",
+  "active": "e3fb4fb59abe959b",
   "lastOpenFiles": [
     "TVY/TVY.md",
+    "TVY/booleova_algebra/logicke_funkce/NAND.md",
+    "TVY/booleova_algebra/logicke_funkce/logicke_funkce.md",
+    "TVY/booleova_algebra/booleova_algebra.md",
     "TVY/ciselne_soustavy/sestnactkova.md",
     "TVY/ciselne_soustavy/osmickova.md",
     "TVY/ciselne_soustavy/desitkova.md",
     "TVY/ciselne_soustavy/ciselne_soustavy.md",
     "TVY/ciselne_soustavy/binarni.md",
     "TVY/booleova_algebra/logicke_funkce/AND.md",
-    "TVY/booleova_algebra/logicke_funkce/logicke_funkce.md",
     "TVY/booleova_algebra/logicke_funkce/NOR.md",
-    "TVY/booleova_algebra/booleova_algebra.md",
     "TVY/booleova_algebra/logicke_funkce/OR.md",
-    "TVY/booleova_algebra/logicke_funkce/NAND.md",
     "TVY/booleova_algebra/logicke_funkce/NOT.md",
     "TVY/booleova_algebra/logicke_funkce/XOR.md",
     "TVY/booleova_algebra/pravidla_zjednodusovani",

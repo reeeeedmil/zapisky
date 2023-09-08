@@ -34,3 +34,9 @@
 		- Hardwarové dělení
 		- principy užití
 		- znaky a specifické vlastnosti serverů
+
+ukol:
+rozlozit na 2 prvocisla:
+2 033
+12 283
+62 615 533
