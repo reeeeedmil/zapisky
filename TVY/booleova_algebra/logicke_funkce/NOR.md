@@ -1,7 +1,7 @@
 #booleova_algebra #logicke_funkce
 # Logická funkce NOR
 Funkce NOR funguje jako logický součet. Je kombinací funkcí [NOT](./NOT.md) a [OR](./OR.md)
-- $Y = \frac{}{A + B}$
+- $Y = \overline{A + B}$
 Pravdivostní tabulka NOR pro 3 vstupy:
 
 | A | B | C | Y |

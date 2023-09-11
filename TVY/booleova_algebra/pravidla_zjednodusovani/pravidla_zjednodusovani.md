@@ -3,8 +3,8 @@ Zjednodušování výrazů má určité pravidla. Těmito pravidly se musíme ř
 - [Komutativní](./komutativni)
 - [Asociativní](./asociativni.md)
 - [Distributivní](./distributivni.md)
-- Zákon doplňku
+- [Zákon doplňku](./zakon_doplnku.md)
 - [Zákon agresivnosti](./zakon_agresivnosti.md)
-- Zákon absorpce negace
+- [Zákon absorpce](zakon_absorpce.md)
 - [Zákon dvojité negace](./dvojita_negace.md)
-- Demorganova pravidla (zákon duality)
+- [Demorganova pravidla (zákon duality)](./demorgan.md)
