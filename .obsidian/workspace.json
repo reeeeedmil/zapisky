@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "423b61dd0b67d774",
+        "id": "c8eb38f9fdf5251b",
         "type": "tabs",
         "children": [
           {
-            "id": "3cf5059f661c1100",
+            "id": "683cb3ac99d973f9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TVY/booleova_algebra/pravidla_zjednodusovani/pravidla_zjednodusovani.md",
+                "file": "TVY/booleova_algebra/pravidla_zjednodusovani/asociativni.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TVY/booleova_algebra/pravidla_zjednodusovani/pravidla_zjednodusovani.md",
+                "file": "TVY/booleova_algebra/pravidla_zjednodusovani/asociativni.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TVY/booleova_algebra/pravidla_zjednodusovani/pravidla_zjednodusovani.md",
+                "file": "TVY/booleova_algebra/pravidla_zjednodusovani/asociativni.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TVY/booleova_algebra/pravidla_zjednodusovani/pravidla_zjednodusovani.md"
+                "file": "TVY/booleova_algebra/pravidla_zjednodusovani/asociativni.md"
               }
             }
           }
@@ -148,34 +148,34 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "60b808afa844ff3d",
+  "active": "683cb3ac99d973f9",
   "lastOpenFiles": [
+    "TVY/booleova_algebra/pravidla_zjednodusovani/distributivni.md",
     "TVY/booleova_algebra/pravidla_zjednodusovani/dvojita_negace.md",
+    "TVY/booleova_algebra/pravidla_zjednodusovani/komutativni.md",
     "TVY/booleova_algebra/pravidla_zjednodusovani/pravidla_zjednodusovani.md",
     "TVY/booleova_algebra/pravidla_zjednodusovani/zakon_agresivnosti.md",
-    "TVY/booleova_algebra/pravidla_zjednodusovani/distributivni.md",
-    "TVY/booleova_algebra/pravidla_zjednodusovani/komutativni.md",
     "TVY/booleova_algebra/pravidla_zjednodusovani/asociativni.md",
-    "TVY/booleova_algebra/booleova_algebra.md",
-    "TVY/TVY.md",
-    "Site/vrstvy/TCP-IP/TCP-IP.md",
-    "Cestina/Literatura/pracovni-list-08-09-2023.md",
-    "Dejepis/index.md",
-    "Dejepis/01-08092023.md",
-    "Ekonomika/index.md",
     "Ekonomika/uvod/01-08092023.md",
+    "Ekonomika/index.md",
     "ICT/index.md",
+    "index.md",
     "Mereni/index.md",
     "OPS/index.md",
-    "postup vypoctu.md",
-    "Site/PSB.md",
+    "Site/vrstvy/TCP-IP/TCP-IP.md",
     "Site/vrstvy/vrstvy.md",
+    "Site/PSB.md",
+    "postup vypoctu.md",
+    "TVY/booleova_algebra/booleova_algebra.md",
+    "TVY/booleova_algebra/logicke_funkce/AND.md",
+    "TVY/booleova_algebra/logicke_funkce/logicke_funkce.md",
+    "TVY/booleova_algebra/logicke_funkce/NOT.md",
+    "TVY/booleova_algebra/logicke_funkce/OR.md",
+    "TVY/booleova_algebra/logicke_funkce/XOR.md",
+    "TVY/booleova_algebra/logicke_funkce/NAND.md",
+    "TVY/booleova_algebra/logicke_funkce/NOR.md",
     "TVY/ciselne_soustavy/binarni.md",
     "TVY/ciselne_soustavy/ciselne_soustavy.md",
-    "TVY/ciselne_soustavy/desitkova.md",
-    "TVY/ciselne_soustavy/osmickova.md",
-    "TVY/ciselne_soustavy/sestnactkova.md",
-    "TVY/booleova_algebra/logicke_funkce/AND.md",
     "Untitled",
     "Dejepis/Untitled",
     "Ekonomika/uvod",

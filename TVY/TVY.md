@@ -6,7 +6,7 @@
 	- Číselné soustavy
 		- převody
 	- Booleova algerba
-		- Minimalizace
+		- Minimalizae
 		- Karnaughova mapa
 	- Polovodičové paměti
 		- Rozdělení
