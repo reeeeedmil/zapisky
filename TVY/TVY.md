@@ -3,10 +3,7 @@
 - [Booleova algebra](./booleova_algebra/booleova_algebra.md)
 
 - Přidat
-	- Číselné soustavy
-		- převody
 	- Booleova algerba
-		- Minimalizae
 		- Karnaughova mapa
 	- Polovodičové paměti
 		- Rozdělení

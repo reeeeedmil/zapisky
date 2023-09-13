@@ -4,35 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "c8eb38f9fdf5251b",
+        "id": "befbaa45f692c3e6",
         "type": "tabs",
         "children": [
           {
-            "id": "683cb3ac99d973f9",
+            "id": "622bef58cde8512f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ekonomika/uvod/02-11092023.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "951ab1df19c299ea",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "TVY/booleova_algebra/pravidla_zjednodusovani/demorgan.md",
+                "file": "Nemcina/nemcina.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TVY/booleova_algebra/pravidla_zjednodusovani/demorgan.md",
+                "file": "Nemcina/nemcina.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TVY/booleova_algebra/pravidla_zjednodusovani/demorgan.md",
+                "file": "Nemcina/nemcina.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +125,17 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TVY/booleova_algebra/pravidla_zjednodusovani/demorgan.md"
+                "file": "Nemcina/nemcina.md"
+              }
+            }
+          },
+          {
+            "id": "715cdffe72f29b46",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency"
               }
             }
           }
@@ -161,43 +158,44 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "951ab1df19c299ea",
+  "active": "622bef58cde8512f",
   "lastOpenFiles": [
-    "TVY/booleova_algebra/pravidla_zjednodusovani/pravidla_zjednodusovani.md",
-    "Ekonomika/uvod/02-11092023.md",
-    "TVY/booleova_algebra/pravidla_zjednodusovani/zakon_absorpce.md",
-    "TVY/booleova_algebra/pravidla_zjednodusovani/zakon_doplnku.md",
-    "TVY/booleova_algebra/logicke_funkce/XOR.md",
-    "TVY/booleova_algebra/logicke_funkce/OR.md",
-    "TVY/booleova_algebra/logicke_funkce/NOT.md",
-    "TVY/booleova_algebra/logicke_funkce/NOR.md",
-    "TVY/booleova_algebra/logicke_funkce/NAND.md",
-    "TVY/booleova_algebra/logicke_funkce/logicke_funkce.md",
-    "TVY/booleova_algebra/logicke_funkce/AND.md",
-    "TVY/booleova_algebra/pravidla_zjednodusovani/zakon_agresivnosti.md",
-    "TVY/booleova_algebra/pravidla_zjednodusovani/komutativni.md",
-    "TVY/booleova_algebra/pravidla_zjednodusovani/dvojita_negace.md",
-    "TVY/booleova_algebra/pravidla_zjednodusovani/distributivni.md",
-    "TVY/booleova_algebra/pravidla_zjednodusovani/demorgan.md",
-    "TVY/booleova_algebra/pravidla_zjednodusovani/asociativni.md",
-    "OPS/index.md",
-    "Cestina/Cetba/Seznam.md",
-    "Cestina/index.md",
-    "Cestina/Literatura/pracovni-list-08-09-2023.md",
-    "Ekonomika/uvod/01-08092023.md",
-    "Ekonomika/index.md",
-    "Dejepis/index.md",
-    "Dejepis/01-08092023.md",
+    "Nemcina/01-12092023.md",
+    "Nemcina/nemcina.md",
     "index.md",
-    "Untitled",
+    "Ekonomika/uvod/03-12092023.md",
+    "Ekonomika/ekonomika.md",
+    "OPS/index.md",
+    "TVY/TVY.md",
+    "TVY/booleova_algebra/pravidla_zjednodusovani/demorgan.md",
+    "TVY/booleova_algebra/pravidla_zjednodusovani/pravidla_zjednodusovani.md",
+    "TVY/booleova_algebra/booleova_algebra.md",
+    "TVY/ciselne_soustavy/ciselne_soustavy.md",
+    "TVY/ciselne_soustavy/prevody/binarni-osmickova.md",
+    "TVY/ciselne_soustavy/prevody/binarni-sestnactkova.md",
+    "TVY/ciselne_soustavy/prevody",
+    "Mereni/index.md",
+    "Ekonomika/uvod/04-13092023.md",
+    "assets/pyramida_potreb.png",
+    "assets",
+    "New folder",
+    "Ekonomika/uvod/02-11092023.md",
+    "Cestina/Cetba/Seznam.md",
+    "Cestina/Literatura/01-13092023.md",
+    "Cestina/Literatura/pracovni-list-08-09-2023.md",
+    "Nemcina",
+    "Ekonomika/uvod/01-08092023.md",
+    "Cestina/plan_uciva.md",
+    "Cestina/Mluvnice/syntax.md",
+    "Cestina/index.md",
+    "Cestina/Mluvnice",
+    "Dejepis/01-08092023.md",
+    "Dejepis/index.md",
+    "ICT/index.md",
     "Dejepis/Untitled",
     "Ekonomika/uvod",
     "Site/vrstvy/TCP-IP",
     "Site/vrstvy",
-    "Cestina/Literatura",
-    "TVY/booleova_algebra/pravidla_zjednodusovani",
-    "TVY/booleova_algebra/logicke_funkce",
-    "TVY/booleova_algebra",
-    "TVY/ciselne_soustavy"
+    "Cestina/Literatura"
   ]
 }
