@@ -1,0 +1,2 @@
+- Příčina vzniku války
+- Vznik mocenckých aliancí

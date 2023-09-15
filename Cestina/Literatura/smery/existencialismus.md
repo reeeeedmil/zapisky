@@ -1,0 +1,4 @@
+- smrt
+- život
+- víra
+- 

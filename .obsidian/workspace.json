@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "befbaa45f692c3e6",
+        "id": "2c25e1fc05cbb5f1",
         "type": "tabs",
         "children": [
           {
-            "id": "622bef58cde8512f",
+            "id": "6518f0b3e49527a8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Nemcina/nemcina.md",
+                "file": "Dejepis/02-15092023.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Nemcina/nemcina.md",
+                "file": "Dejepis/02-15092023.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Nemcina/nemcina.md",
+                "file": "Dejepis/02-15092023.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Nemcina/nemcina.md"
+                "file": "Dejepis/02-15092023.md"
               }
             }
           },
@@ -158,44 +158,44 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "622bef58cde8512f",
+  "active": "6518f0b3e49527a8",
   "lastOpenFiles": [
-    "Nemcina/01-12092023.md",
-    "Nemcina/nemcina.md",
-    "index.md",
-    "Ekonomika/uvod/03-12092023.md",
-    "Ekonomika/ekonomika.md",
-    "OPS/index.md",
-    "TVY/TVY.md",
-    "TVY/booleova_algebra/pravidla_zjednodusovani/demorgan.md",
-    "TVY/booleova_algebra/pravidla_zjednodusovani/pravidla_zjednodusovani.md",
-    "TVY/booleova_algebra/booleova_algebra.md",
-    "TVY/ciselne_soustavy/ciselne_soustavy.md",
-    "TVY/ciselne_soustavy/prevody/binarni-osmickova.md",
-    "TVY/ciselne_soustavy/prevody/binarni-sestnactkova.md",
-    "TVY/ciselne_soustavy/prevody",
-    "Mereni/index.md",
+    "Dejepis/svet_pred_1ww.md",
+    "Dejepis/02-15092023.md",
+    "Dejepis/01-08092023.md",
+    "Ekonomika/uvod/05-15092023.md",
     "Ekonomika/uvod/04-13092023.md",
+    "Ekonomika/uvod/03-12092023.md",
+    "Ekonomika/uvod/02-11092023.md",
+    "Cestina/Literatura/smery/absurdismus.md",
+    "Cestina/Literatura/01-13092023.md",
+    "Cestina/Literatura/smery/existencialismus.md",
+    "Cestina/Literatura/smery",
+    "Site/vrstvy/TCP-IP/TCP-IP.md",
+    "Mereni/index.md",
+    "index.md",
+    "pyramida_potreb.png.md",
+    "TVY/TVY.md",
+    "TVY/booleova_algebra/booleova_algebra.md",
+    "TVY/ciselne_soustavy/sestnactkova.md",
+    "TVY/ciselne_soustavy/osmickova.md",
+    "TVY/ciselne_soustavy/desitkova.md",
+    "TVY/ciselne_soustavy/ciselne_soustavy.md",
+    "TVY/ciselne_soustavy/binarni.md",
+    "TVY/ciselne_soustavy/prevody/binarni-sestnactkova.md",
+    "TVY/ciselne_soustavy/prevody/binarni-osmickova.md",
+    "TVY/booleova_algebra/pravidla_zjednodusovani/zakon_doplnku.md",
+    "TVY/booleova_algebra/pravidla_zjednodusovani/zakon_agresivnosti.md",
+    "TVY/booleova_algebra/pravidla_zjednodusovani/zakon_absorpce.md",
+    "TVY/ciselne_soustavy/prevody",
     "assets/pyramida_potreb.png",
     "assets",
     "New folder",
-    "Ekonomika/uvod/02-11092023.md",
-    "Cestina/Cetba/Seznam.md",
-    "Cestina/Literatura/01-13092023.md",
-    "Cestina/Literatura/pracovni-list-08-09-2023.md",
     "Nemcina",
-    "Ekonomika/uvod/01-08092023.md",
-    "Cestina/plan_uciva.md",
-    "Cestina/Mluvnice/syntax.md",
-    "Cestina/index.md",
     "Cestina/Mluvnice",
-    "Dejepis/01-08092023.md",
-    "Dejepis/index.md",
-    "ICT/index.md",
     "Dejepis/Untitled",
     "Ekonomika/uvod",
     "Site/vrstvy/TCP-IP",
-    "Site/vrstvy",
-    "Cestina/Literatura"
+    "Site/vrstvy"
   ]
 }
