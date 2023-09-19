@@ -4,35 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "2c25e1fc05cbb5f1",
+        "id": "fb74cfb31bb6b084",
         "type": "tabs",
         "children": [
           {
-            "id": "6518f0b3e49527a8",
+            "id": "67f1c7129fd0e46c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Site/prakticka_cast/zaklady_datovych_komunikaci.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f314b73905363cfd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Ekonomika/uvod/06-18092023.md",
+                "file": "Nemcina/02-19092023.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ekonomika/uvod/06-18092023.md",
+                "file": "Nemcina/02-19092023.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Ekonomika/uvod/06-18092023.md",
+                "file": "Nemcina/02-19092023.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Ekonomika/uvod/06-18092023.md"
+                "file": "Nemcina/02-19092023.md"
               }
             }
           },
@@ -171,12 +158,16 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "f314b73905363cfd",
+  "active": "67f1c7129fd0e46c",
   "lastOpenFiles": [
-    "Ekonomika/uvod/01-08092023.md",
+    "Ekonomika/uvod/07-19092023.md",
+    "Nemcina/02-19092023.md",
     "Ekonomika/uvod/06-18092023.md",
-    "Site/PSB.md",
+    "Cestina/Mluvnice/syntax.md",
+    "Cestina/Literatura/01-13092023.md",
     "Site/prakticka_cast/zaklady_datovych_komunikaci.md",
+    "Ekonomika/uvod/01-08092023.md",
+    "Site/PSB.md",
     "Dejepis/02-15092023.md",
     "Site/prakticka_cast",
     "Dejepis/svet_pred_1ww.md",
@@ -186,7 +177,6 @@
     "Ekonomika/uvod/03-12092023.md",
     "Ekonomika/uvod/02-11092023.md",
     "Cestina/Literatura/smery/absurdismus.md",
-    "Cestina/Literatura/01-13092023.md",
     "Cestina/Literatura/smery/existencialismus.md",
     "Cestina/Literatura/smery",
     "Site/vrstvy/TCP-IP/TCP-IP.md",
@@ -198,9 +188,6 @@
     "TVY/ciselne_soustavy/sestnactkova.md",
     "TVY/ciselne_soustavy/osmickova.md",
     "TVY/ciselne_soustavy/desitkova.md",
-    "TVY/ciselne_soustavy/ciselne_soustavy.md",
-    "TVY/ciselne_soustavy/binarni.md",
-    "TVY/ciselne_soustavy/prevody/binarni-sestnactkova.md",
     "TVY/ciselne_soustavy/prevody",
     "assets/pyramida_potreb.png",
     "assets",
