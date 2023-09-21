@@ -7,3 +7,10 @@ obsluha vs prace
 
 # První pomoc
 Poskytnutí první pomoci je povinnost ze zákona. Neposkytnutí první pomoci je trestné. Jedinou vyjímkou je případ, kdyby ochránce sám sebe ohrozil. 
+
+Láníček přišel???
+
+Hašení pod napětím:
+- Prášek
+- $CO_2$
+- Halogen

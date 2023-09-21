@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "fb74cfb31bb6b084",
+        "id": "8b7dd28351376197",
         "type": "tabs",
         "children": [
           {
-            "id": "67f1c7129fd0e46c",
+            "id": "f2b56d832bb81aba",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Nemcina/02-19092023.md",
+                "file": "Mereni/osciloskopy.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Nemcina/02-19092023.md",
+                "file": "Mereni/osciloskopy.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Nemcina/02-19092023.md",
+                "file": "Mereni/osciloskopy.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Nemcina/02-19092023.md"
+                "file": "Mereni/osciloskopy.md"
               }
             }
           },
@@ -158,10 +158,15 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "67f1c7129fd0e46c",
+  "active": "f2b56d832bb81aba",
   "lastOpenFiles": [
-    "Ekonomika/uvod/07-19092023.md",
+    "assets/CRT.png",
+    "Mereni/osciloskopy.md",
+    "Mereni/index.md",
+    "Cestina/Literatura/smery/existencialismus.md",
+    "Cestina/Literatura/smery/absurdismus.md",
     "Nemcina/02-19092023.md",
+    "Ekonomika/uvod/07-19092023.md",
     "Ekonomika/uvod/06-18092023.md",
     "Cestina/Mluvnice/syntax.md",
     "Cestina/Literatura/01-13092023.md",
@@ -176,18 +181,13 @@
     "Ekonomika/uvod/04-13092023.md",
     "Ekonomika/uvod/03-12092023.md",
     "Ekonomika/uvod/02-11092023.md",
-    "Cestina/Literatura/smery/absurdismus.md",
-    "Cestina/Literatura/smery/existencialismus.md",
     "Cestina/Literatura/smery",
     "Site/vrstvy/TCP-IP/TCP-IP.md",
-    "Mereni/index.md",
     "index.md",
     "pyramida_potreb.png.md",
     "TVY/TVY.md",
     "TVY/booleova_algebra/booleova_algebra.md",
     "TVY/ciselne_soustavy/sestnactkova.md",
-    "TVY/ciselne_soustavy/osmickova.md",
-    "TVY/ciselne_soustavy/desitkova.md",
     "TVY/ciselne_soustavy/prevody",
     "assets/pyramida_potreb.png",
     "assets",
