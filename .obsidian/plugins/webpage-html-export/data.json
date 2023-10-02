@@ -15,7 +15,7 @@
   "startOutlineCollapsed": false,
   "logLevel": "warning",
   "incrementalExport": false,
-  "deleteOldExportedFiles": false,
+  "deleteOldExportedFiles": true,
   "addDarkModeToggle": true,
   "includeOutline": true,
   "includeGraphView": true,

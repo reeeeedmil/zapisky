@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "8b7dd28351376197",
+        "id": "be0a599239a138af",
         "type": "tabs",
         "children": [
           {
-            "id": "f2b56d832bb81aba",
+            "id": "2ec891c284586c49",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mereni/osciloskopy.md",
+                "file": "Ekonomika/trh/03-29092023.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "e693cd768925de92",
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mereni/osciloskopy.md",
+                "file": "Ekonomika/trh/03-29092023.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Mereni/osciloskopy.md",
+                "file": "Ekonomika/trh/03-29092023.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Mereni/osciloskopy.md"
+                "file": "Ekonomika/trh/03-29092023.md"
               }
             }
           },
@@ -155,47 +156,52 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "webpage-html-export:Export Vault to HTML": false
+      "webpage-html-export:Export Vault to HTML": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "f2b56d832bb81aba",
+  "active": "2ec891c284586c49",
   "lastOpenFiles": [
-    "assets/CRT.png",
+    "Ekonomika/trh/03-29092023.md",
+    "Excalidraw/Drawing 2023-09-29 10.06.23.excalidraw.md",
+    "Mereni/lissajousovy_obrazce.md",
     "Mereni/osciloskopy.md",
-    "Mereni/index.md",
-    "Cestina/Literatura/smery/existencialismus.md",
-    "Cestina/Literatura/smery/absurdismus.md",
-    "Nemcina/02-19092023.md",
-    "Ekonomika/uvod/07-19092023.md",
-    "Ekonomika/uvod/06-18092023.md",
-    "Cestina/Mluvnice/syntax.md",
-    "Cestina/Literatura/01-13092023.md",
-    "Site/prakticka_cast/zaklady_datovych_komunikaci.md",
-    "Ekonomika/uvod/01-08092023.md",
-    "Site/PSB.md",
-    "Dejepis/02-15092023.md",
-    "Site/prakticka_cast",
-    "Dejepis/svet_pred_1ww.md",
-    "Dejepis/01-08092023.md",
-    "Ekonomika/uvod/05-15092023.md",
-    "Ekonomika/uvod/04-13092023.md",
-    "Ekonomika/uvod/03-12092023.md",
-    "Ekonomika/uvod/02-11092023.md",
-    "Cestina/Literatura/smery",
-    "Site/vrstvy/TCP-IP/TCP-IP.md",
+    "Mereni/zmena_rozsahu_predradniku.excalidraw.md",
+    "Excalidraw/Drawing 2023-09-25 12.56.12.excalidraw.md",
+    "Ekonomika/trh/02-25092023.md",
+    "Ekonomika/uvod/opakovani-26092023.md",
+    "Excalidraw/Drawing 2023-09-26 09.06.34.excalidraw.md",
+    "Excalidraw/Drawing 2023-09-26 08.58.36.excalidraw.md",
+    "Dejepis/03-22092023.md",
+    "assets/ekonomika pico.png",
+    "Excalidraw/Drawing 2023-09-24 16.19.47.excalidraw.md",
     "index.md",
-    "pyramida_potreb.png.md",
+    "Mereni/index.md",
+    "Excalidraw",
+    "Ekonomika/trh/01-22092023.md",
+    "assets/nabidkapoptavka.png",
+    "Ekonomika/uvod/08-22092023.md",
+    "Ekonomika/trh",
+    "Ekonomika/uvod/02-11092023.md",
+    "Ekonomika/uvod/01-08092023.md",
+    "Ekonomika/uvod/07-19092023.md",
+    "assets/idk.jpg",
+    "Cestina/Literatura/smery/opakovani-22092023.md",
+    "Cestina/Literatura/smery/existencialismus.md",
+    "assets/CRT.png",
     "TVY/TVY.md",
-    "TVY/booleova_algebra/booleova_algebra.md",
     "TVY/ciselne_soustavy/sestnactkova.md",
+    "TVY/ciselne_soustavy/osmickova.md",
+    "TVY/ciselne_soustavy/desitkova.md",
+    "TVY/ciselne_soustavy/ciselne_soustavy.md",
+    "Site/prakticka_cast",
+    "Cestina/Literatura/smery",
     "TVY/ciselne_soustavy/prevody",
     "assets/pyramida_potreb.png",
     "assets",
     "New folder",
     "Nemcina",
     "Cestina/Mluvnice",
-    "Dejepis/Untitled",
-    "Ekonomika/uvod",
-    "Site/vrstvy/TCP-IP"
+    "Dejepis/Untitled"
   ]
 }
