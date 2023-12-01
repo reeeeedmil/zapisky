@@ -1,3 +1,8 @@
 {
-  "accentColor": ""
+  "accentColor": "",
+  "cssTheme": "Obsidian gruvbox",
+  "interfaceFontFamily": "Skyhook Mono,3270 Nerd Font Mono",
+  "textFontFamily": "Skyhook Mono,3270 Nerd Font Mono",
+  "monospaceFontFamily": "3270 Nerd Font Mono",
+  "baseFontSize": 17
 }

@@ -1,0 +1,2 @@
+my dream holiday after graduation
+I'd like to go to Finland. I'd go alone, because I already know someone there - so I don't need to bring people with me. I would however stay in a hotel, preferably somewhere around the Helsinki centre. I'd try to walk everywhere, but trains are also a very good option. I'd go and enjoy the coffee there and also I'd visit as much conferences as possible, since Finland is one of the leading countries in IT.
