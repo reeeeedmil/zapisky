@@ -87,4 +87,9 @@ DMM má uvedené m. rozsahy v dekadických násobcích 2, jedná se o takzvaný 
 0.5%rdg = deltaM
 1%digit = deltaR (nebo d)
 
+přepočet na procentní chybu z měřícího rozsahu přístroje 
+
+$g_2 = \frac{d}{maximální počet indikovaných jednotek }* 100$  
+
+$\delta_X=\delta_1+\delta_2*\frac{X}{X}$
 
