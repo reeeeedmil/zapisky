@@ -1,0 +1,12 @@
+# Souborové systémy
+Souborové systémy (anglicky File systems) jsou způsob ukládání dat ve formě souborů tak, aby se k nim dalo uživatelsky jednoduše přistupovat.
+
+Souborový systém zajišťuje ukládání a čtení dat paměťového média tak, aby s nimi uživatelé mohli pracovat ve formě souborů a adresářů. Základní ideou souborového systému je tedy zpřístupnění a ukládání dat pomocí hierarchicky organizovaného systému adresářů a souborů. 
+
+## Unix a na Unixu založené systémy
+Souborový systém má v [unixových](https://cs.wikipedia.org/wiki/UN*X "UN*X") operačních systémech jen jeden kořen (tj. existuje jen jeden adresářový strom). Případné další souborové systémy jsou připojeny do adresářů existujícího stromu a nevytvářejí proto další kořen (další samostatný adresářový strom). Pro připojování souborových systémů do adresářového stromu slouží nástroj [mount](https://cs.wikipedia.org/wiki/Mount "Mount").
+
+Při startu unixového systému (tj. při [bootu](https://cs.wikipedia.org/wiki/Bootov%C3%A1n%C3%AD "Bootování")) je zavedeno do paměti jádro, které si připojí kořenový souborový systém. Další souborové systémy jsou připojeny do existujících adresářů při startu automaticky dle definice v souboru [/etc/fstab](https://cs.wikipedia.org/wiki/Fstab "Fstab"). Správce počítače může připojit další souborové systémy později, případně jsou připojovány automaticky (např. [USB flash disk](https://cs.wikipedia.org/wiki/USB_flash_disk "USB flash disk")).
+
+## macOS
+[macOS](https://cs.wikipedia.org/wiki/MacOS "MacOS") používá souborový systém [HFS+](https://cs.wikipedia.org/wiki/HFS%2B "HFS+"), který je převzat z klasického Mac OS.Označuje se termínem „Mac OS Extended“. Souborový systém HFS+ je velmi bohatý na metadata. Soubory mohou mít názvy délky až 255 znaků. HFS+ používá pro kódování [Unicode](https://cs.wikipedia.org/wiki/Unicode "Unicode"). Systém macOS podporuje též souborový systém [UFS](https://cs.wikipedia.org/wiki/Unix_file_system "Unix file system") pocházející z BSD Unixu (souborový systém z NeXTSTEPu). Nové verze macOS jsou schopny číst a zapisovat do [FAT](https://cs.wikipedia.org/wiki/File_Allocation_Table "File Allocation Table"). Umějí též číst novější [NTFS](https://cs.wikipedia.org/wiki/NTFS "NTFS") z řady [Windows NT](https://cs.wikipedia.org/wiki/Windows_NT "Windows NT").

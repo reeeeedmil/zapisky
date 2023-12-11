@@ -87,4 +87,4 @@ DMM má uvedené m. rozsahy v dekadických násobcích 2, jedná se o takzvaný 
 0.5%rdg = deltaM
 1%digit = deltaR (nebo d)
 
-
+- RDG = Reading

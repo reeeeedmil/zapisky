@@ -4,16 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "fa9949058b9e20a1",
+        "id": "c46723925ff07a4c",
         "type": "tabs",
         "children": [
           {
-            "id": "053a0f34010110a2",
+            "id": "7ddb72919769e865",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Mereni/zmena_rozsahu_predradniku.excalidraw.md"
+                "file": "TVY/zdroje/normalni_zdroje/normalni_zdroje.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -83,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mereni/zmena_rozsahu_predradniku.excalidraw.md",
+                "file": "TVY/zdroje/normalni_zdroje/normalni_zdroje.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Mereni/zmena_rozsahu_predradniku.excalidraw.md",
+                "file": "TVY/zdroje/normalni_zdroje/normalni_zdroje.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Mereni/zmena_rozsahu_predradniku.excalidraw.md"
+                "file": "TVY/zdroje/normalni_zdroje/normalni_zdroje.md"
               }
             }
           },
@@ -158,48 +160,50 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "053a0f34010110a2",
+  "active": "7ddb72919769e865",
   "lastOpenFiles": [
-    "Mereni/test.md",
-    "Mereni/osciloskopy.md",
-    "Mereni/lissajousovy_obrazce.md",
-    "Mereni/index.md",
-    "Mereni/chyby_mericiho_pristroje.md",
-    "Cestina/Literatura/01-13092023.md",
-    "Cestina/Literatura/smery/existencialismus.md",
-    "Cestina/Literatura/smery/absurdismus.md",
-    "Cestina/Literatura/smery/opakovani-22092023.md",
-    "Cestina/Literatura/pracovni-list-08-09-2023.md",
-    "Cestina/Literatura/02-10112023.md",
+    "TVY/zdroje/zdroje.md",
+    "TVY/TVY.md",
+    "TVY/zdroje/normalni_zdroje/normalni_zdroje.md",
+    "TVY/zdroje/normalni_zdroje",
+    "TVY/zdroje/zdroje_neprerusovaneho_napeti",
+    "TVY/zdroje",
+    "TVY/architektura_pc/architektura_pc.md",
+    "Ekonomika/podnikani/03-01122023.md",
+    "Ekonomika/podnikani/02-28112023.md",
+    "Ekonomika/podnikani/01-20112023.md",
+    "Mereni/22/prot22.md",
+    "Mereni/22/Drawing 2023-12-07 10.20.29.excalidraw.md",
+    "OPS/souborove_systemy/souborove_systemy.md",
+    "Mereni/22",
+    "OPS/OPS.md",
+    "OPS/souborove_systemy",
+    "Site/PSB.md",
+    "TVY/booleova_algebra/booleova_algebra.md",
+    "TVY/booleova_algebra/pravidla_zjednodusovani/pravidla_zjednodusovani.md",
+    "TVY/booleova_algebra/pravidla_zjednodusovani/zakon_absorpce.md",
+    "TVY/booleova_algebra/logicke_funkce/logicke_funkce.md",
+    "Mereni/21/prot21.md",
+    "Mereni/21",
+    "TVY/architektura_pc/harvard.png",
+    "TVY/architektura_pc/neumann.png",
+    "TVY/architektura_pc",
+    "ANJ/05122023.md",
     "ANJ/idk.md",
     "ANJ/drymholidej.md",
     "Nemcina/04-21112023.md",
     "Nemcina/slovesa.md",
     "Nemcina/nemcina.md",
-    "Nemcina/01-12092023.md",
-    "TVY/booleova_algebra/pravidla_zjednodusovani/dvojita_negace.md",
-    "TVY/booleova_algebra/pravidla_zjednodusovani/distributivni.md",
-    "TVY/booleova_algebra/pravidla_zjednodusovani/demorgan.md",
-    "TVY/booleova_algebra/pravidla_zjednodusovani/asociativni.md",
-    "TVY/booleova_algebra/pravidla_zjednodusovani/komutativni.md",
-    "TVY/booleova_algebra/pravidla_zjednodusovani/pravidla_zjednodusovani.md",
-    "TVY/booleova_algebra/logicke_funkce/logicke_funkce.md",
-    "TVY/booleova_algebra/booleova_algebra.md",
-    "Ekonomika/podnikani/02-28112023.md",
+    "Dejepis/evropa-mezi-svetovymi-valkami.md",
+    "Mereni/chyby_mericiho_pristroje.md",
+    "Mereni/zmena_rozsahu_predradniku.excalidraw.md",
     "ANJ",
     "Cestina/Literatura/rozbory/19xx",
     "Cestina/Literatura/rozbory",
-    "Ekonomika/podnikani",
     "assets/CRT.png",
     "assets/ekonomika pico.png",
-    "Excalidraw",
     "assets/nabidkapoptavka.png",
-    "Ekonomika/trh",
     "assets/idk.jpg",
-    "Site/prakticka_cast",
-    "Cestina/Literatura/smery",
-    "TVY/ciselne_soustavy/prevody",
-    "assets/pyramida_potreb.png",
-    "assets"
+    "assets/pyramida_potreb.png"
   ]
 }
