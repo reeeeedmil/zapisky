@@ -81,7 +81,7 @@ DMM má uvedené m. rozsahy v dekadických násobcích 2, jedná se o takzvaný 
 
 | Rozsah | Chyba | Rozlišení | 
 |-|-|-|
-|200mV|\pm0.5%rdg|100mV|
+|200mV|\q_m0.5%rdg|100mV|
 | 2V |\pm 1%digit|1mV|
 
 0.5%rdg = deltaM
@@ -92,4 +92,27 @@ přepočet na procentní chybu z měřícího rozsahu přístroje
 $g_2 = \frac{d}{maximální počet indikovaných jednotek }* 100$  
 
 $\delta_X=\delta_1+\delta_2*\frac{X}{X}$
+
+
+vypočítat celkovou a relativní chybu pro rozsah 1000V
+| $\delta_p$ | = |$\delta_m$ | + |$\delta_R$ | -> |+- 0,8% |    +    | $\frac{+-2}{1999 }* 100$ |   =0,9
+
+
+b) Praktický příklad 
+ hodnota na přístroji 1,78V
+ rozsah 20V
+
+na uvedenem dmn bylo naměřeno napětí 1,78 V na rozsahu 20 V 
+tabulka viz. příklady
+
+###### celková relativní rozsahu 
+ $\delta_p$ | = |$\delta_m$ | + |$\delta_R$ | -> |+- 0,5% |    +    | $\frac{+-2}{1999 }* 100$ |   =0,9
+
+
+###### relativní chyba pro naměřenou hodnotu 
+
+
+
+###### výsledná absolutní chyba 
+
 

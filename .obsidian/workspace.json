@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TVY/magneticky_zaznam/magneticky_zaznam.md",
+                "file": "Mereni/chyby_mericiho_pristroje.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TVY/magneticky_zaznam/magneticky_zaznam.md",
+                "file": "Mereni/chyby_mericiho_pristroje.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TVY/magneticky_zaznam/magneticky_zaznam.md",
+                "file": "Mereni/chyby_mericiho_pristroje.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TVY/magneticky_zaznam/magneticky_zaznam.md"
+                "file": "Mereni/chyby_mericiho_pristroje.md"
               }
             }
           },
@@ -161,10 +161,11 @@
   },
   "active": "053a0f34010110a2",
   "lastOpenFiles": [
-    "64232BCD-BB17-4D37-8913-E54353D92B58.jpeg",
-    "pevnydisk_cluster.jpeg",
+    "Mereni/zmena_rozsahu_predradniku.excalidraw.md",
     "TVY/magneticky_zaznam/magneticky_zaznam.md",
     "TVY/TVY.md",
+    "64232BCD-BB17-4D37-8913-E54353D92B58.jpeg",
+    "pevnydisk_cluster.jpeg",
     "TVY/magneticky_zaznam",
     "Dejepis/Evropa mezi světovými válkami.md",
     "Dejepis/04-03112023.md",
@@ -177,7 +178,6 @@
     "Excalidraw/Drawing 2023-09-26 08.58.36.excalidraw.md",
     "Excalidraw/Drawing 2023-09-26 09.06.34.excalidraw.md",
     "Excalidraw/Drawing 2023-09-24 16.19.47.excalidraw.md",
-    "Mereni/zmena_rozsahu_predradniku.excalidraw.md",
     "Mereni/test.md",
     "Mereni/osciloskopy.md",
     "Mereni/lissajousovy_obrazce.md",
