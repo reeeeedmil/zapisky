@@ -1,6 +1,9 @@
 # Přehled
 - [Číselné soustavy](./ciselne_soustavy/ciselne_soustavy.md)
 - [Booleova algebra](./booleova_algebra/booleova_algebra.md)
+- [Architektura PC](./architektura_pc/architektura_pc.md)
+
+- [Zdroje](./zdroje/zdroje.md)
 
 - Přidat
 	- Booleova algerba

@@ -1,6 +1,6 @@
 - [Čeština](./Cestina/index.md)
 - [Sítě](./Site/PSB.md)
-- [OPS](./OPS/index.md)
+- [OPS](OPS.md)
 - [TVY](./TVY/TVY.md)
 - [Ekonomika](./Ekonomika/ekonomika.md)
 - [Němčina](./Nemcina/nemcina.md)

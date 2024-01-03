@@ -81,58 +81,44 @@ DMM má uvedené m. rozsahy v dekadických násobcích 2, jedná se o takzvaný 
 
 | Rozsah | Chyba | Rozlišení | 
 |-|-|-|
-|200mV|\q_m0.5%rdg|100mV|
-| 2V |\pm 1%digit|1mV|
 
-0.5%rdg = deltaM
-1%digit = deltaR (nebo d)
+## Praktický příklad
+![[dmm-1.png]]
+Na uvedeném DMM bylo naměřeno napětí 1.78V na rozsahu 20V
+Spočítejte celkovou relativní chybu rozsahu, relativní chybu pro naměřenou hodnotu
 
-přepočet na procentní chybu z měřícího rozsahu přístroje 
+$$|\Delta_P| = |\Delta_M| + |\Delta_R| = \frac{|\delta_M*U_M| + |\delta_R*U_R|}{100} = \frac{|\pm 0.5 * 1.78| + |0.05*20V|}{100} = \pm 18.9mV$$
 
-$g_2 = \frac{d}{maximální počet indikovaných jednotek }* 100$  
+$$U_S \space\epsilon \space <1.7611; 1.7898>V$$
+Vhodně zvolený rozsah = 2V
 
-$\delta_X=\delta_1+\delta_2*\frac{X}{X}$
+Na rozsahu 2V bylo naměřeno napětí 1.778 voltů.
+$|\Delta_P| = 9.89mV$
+$$U_S \space\epsilon \space <1.768; 1.788>V$$
+Z výsledků je vidět, že v tomto případě je chyba podstatně větší. Je tedy evidentní, že rozsah nebyl pro toto napětí zvolen správně, a proto nebylo možné efektivně využít přesnost měřicího přístroje. Na displeji MP si rovněž musíme všimnout, že první číslice není obsazená. To znamená, že pro měření tohoto napětí je multimetr přepnut na zbytečně vysoký rozsah.
 
+## Výpočet chyby měření
 
-vypočítat celkovou a relativní chybu pro rozsah 1000V
-| $\delta_p$ | = |$\delta_m$ | + |$\delta_R$ | -> |+- 0,8% |    +    | $\frac{+-2}{1999 }* 100$ |   =0,9
+| Rozsah | Chyba | Rozlišení |
+| ---- | ---- | ---- |
+| 200mV | +-0.5%rdg | 100mV |
+| 2V | +-1digit | 1mV |
+| 20V |  | 10mV |
+| 200V |  | 100mV |
+| 1000V |  | 1V |
 
+| Rozsah | Chyba     | Rozlišení |
+| ------ | --------- | --------- |
+| 200mA  | +-0.5%rdg +-1digit | 0.1mA     |
+| 2mA     |   | 1mA       |
+| 200mA    |           | 10mA      |
+| 200mA   | +-1.2%rdg +-1digit          | 100mA     |
+| 2A  | +-2%rdg +-5digit          | 1mA        |
+svorka ampérmeter do série, paralelně rezistor a voltmetr, svorka
+Přímým měřením zjistíme hodnotu napětí a proudu. Vypočteme hodnotu výkonu P.
+Výslednou chybu odvodíme z chyb přímo měřených veličin.
+Protože obě veličiny jsou udány ve svých jednotkách, nelze jednoduše sečíst absolutní chyby.
 
-## b) 
-Praktický příklad 
- hodnota na přístroji 1,78V
- rozsah 20V
-
-na uvedenem dmn bylo naměřeno napětí 1,78 V na rozsahu 20 V 
-tabulka viz. příklady
-
-###### celková relativní rozsahu 
- $\delta_p$ | = |$\delta_m$ | + |$\delta_R$ | -> |+- 0,5% |    +    | $\frac{+-2}{1999 }* 100$ |   =0,9
-
-
-###### relativní chyba pro naměřenou hodnotu 
-
-
-
-###### výsledná absolutní chyba 
- $\Delta_p$ | = |$\Delta_m$ | + |$\Delta_R$ |   ->     $\frac{|\delta_M * U_M +\delta_R * U_R |}{100 }$ |   =+- 18,9
-
-
-## c)
-na přístroji 1,778 V
-rozsah 2 V
-
-
-###### celková relativní rozsahu 
- $\delta_p$ | = |$\delta_R$ | + |$\delta_n$ |  
- $\delta_p$ | = | 0,5 | + | $\frac{+-1}{1999}$| =0,55  
-
-###### relativní chyba pro naměřenou hodnotu 
-| $\delta_p$ | =   | $\delta_M$ | +   | $\delta_R$ |
-|$\delta_p$|  = 0,5 + $\frac{1}{1999}*100$ =1,125
-
-
-###### výsledná absolutní chyba 
-
-
-
+Byly naměřeny tyto hodnoty:
+I = 125.4mA
+U = 15.56V
