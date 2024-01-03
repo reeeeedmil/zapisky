@@ -81,10 +81,34 @@ DMM má uvedené m. rozsahy v dekadických násobcích 2, jedná se o takzvaný 
 
 | Rozsah | Chyba | Rozlišení | 
 |-|-|-|
-|200mV|\pm0.5%rdg|100mV|
-| 2V |\pm 1%digit|1mV|
+|200mV| $\pm{}$ 0.5%rdg|100mV|
+| 2V | $\pm{}$ 1%digit|1mV|
 
-0.5%rdg = deltaM
-1%digit = deltaR (nebo d)
+$\pm{}$ 0.5%rdg = $\delta{}_M$
+$\pm{}$ 1%digit = $\delta{}_R$ (nebo d)
 
 - RDG = Reading
+$$ 
+| \delta_P | = | \delta_M| + |\delta_R| = |\pm 0.5\%| + |\frac{d}{D}*100| = |0.5|+|\frac{\pm 1}{1999}*100| = \pm 0.55\%
+$$
+- Pro měření napětí 15V na rozsahu 20V
+0.57%
+$$|\delta_P|=|\delta_M|+|\delta_R*\frac{U_R}{U_M}|=|\pm 0.5\%| + |0.05*\frac{20V}{15V}|=\pm 0.57\%$$
+
+
+## Praktický příklad
+![[dmm-1.png]]
+Na uvedeném DMM bylo naměřeno napětí 1.78V na rozsahu 20V
+Spočítejte celkovou relativní chybu rozsahu, relativní chybu pro naměřenou hodnotu
+
+$$|\Delta_P| = |\Delta_M| + |\Delta_R| = \frac{|\delta_M*U_M| + |\delta_R*U_R|}{100} = \frac{|\pm 0.5 * 1.78| + |0.05*20V|}{100} = \pm 18.9mV$$
+
+$$U_S \space\epsilon \space <1.7611; 1.7898>V$$
+Vhodně zvolený rozsah = 2V
+
+Na rozsahu 2V bylo naměřeno napětí 1.778 voltů.
+$|\Delta_P| = 9.89mV$
+$$U_S \space\epsilon \space <1.768; 1.788>V$$
+Z výsledků je vidět, že v tomto případě je chyba podstatně větší. Je tedy evidentní, že rozsah nebyl pro toto napětí zvolen správně, a proto nebylo možné efektivně využít přesnost měřicího přístroje. Na displeji MP si rovněž musíme všimnout, že první číslice není obsazená. To znamená, že pro měření tohoto napětí je multimetr přepnut na zbytečně vysoký rozsah.
+
+## Výpočet chyby měření

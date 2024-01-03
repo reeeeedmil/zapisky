@@ -4,22 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "c46723925ff07a4c",
+        "id": "f75f42c28cacd81c",
         "type": "tabs",
         "children": [
           {
-            "id": "7ddb72919769e865",
+            "id": "5cd7e5e6fc9a0d55",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TVY/zdroje/normalni_zdroje/normalni_zdroje.md",
+                "file": "Nemcina/04-21112023.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c9ec4afddfb06b21",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Mereni/chyby_mericiho_pristroje.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TVY/zdroje/normalni_zdroje/normalni_zdroje.md",
+                "file": "Mereni/chyby_mericiho_pristroje.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TVY/zdroje/normalni_zdroje/normalni_zdroje.md",
+                "file": "Mereni/chyby_mericiho_pristroje.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TVY/zdroje/normalni_zdroje/normalni_zdroje.md"
+                "file": "Mereni/chyby_mericiho_pristroje.md"
               }
             }
           },
@@ -135,7 +148,9 @@
             "state": {
               "type": "all-properties",
               "state": {
-                "sortOrder": "frequency"
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
               }
             }
           }
@@ -160,46 +175,48 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "7ddb72919769e865",
+  "active": "c9ec4afddfb06b21",
   "lastOpenFiles": [
-    "TVY/zdroje/zdroje.md",
-    "TVY/TVY.md",
+    "Site/PSB.md",
     "TVY/zdroje/normalni_zdroje/normalni_zdroje.md",
+    "TVY/architektura_pc/architektura_pc.md",
+    "TVY/booleova_algebra/logicke_funkce/NOT.md",
+    "TVY/booleova_algebra/logicke_funkce/logicke_funkce.md",
+    "TVY/ciselne_soustavy/prevody/binarni-osmickova.md",
+    "TVY/ciselne_soustavy/ciselne_soustavy.md",
+    "TVY/ciselne_soustavy/desitkova.md",
+    "ANJ/05122023.md",
+    "Nemcina/04-21112023.md",
+    "Nemcina/Drawing 2023-12-19 10.11.56.excalidraw.md",
+    "Cestina/Cetba/Seznam.md",
+    "Cestina/Literatura/01-13092023.md",
+    "Cestina/Literatura/smery/opakovani-22092023.md",
+    "Cestina/Literatura/smery/existencialismus.md",
+    "Cestina/Literatura/smery/absurdismus.md",
+    "Cestina/Literatura/smery/15122023.md",
+    "Cestina/Literatura/02-10112023.md",
+    "Ekonomika/podnikani/05-15122023.md",
+    "Mereni/chyby_mericiho_pristroje.md",
+    "Cestina/Literatura/rozbory/19xx/1-polovina/kral-lavra.md",
+    "Cestina/Literatura/rozbory/sablona.md",
+    "Cestina/Literatura/rozbory/do-1800/hamlet.md",
+    "Cestina/index.md",
+    "Cestina/plan_uciva.md",
+    "Cestina/Literatura/rozbory/do-1800",
+    "Cestina/Literatura/rozbory/19xx/2-polovina/2001-vesmirna-odysea.md",
+    "Cestina/Literatura/rozbory/19xx/2-polovina",
+    "Cestina/Literatura/rozbory/19xx/1-polovina",
+    "Matika",
+    "Mereni/dmm-1.png",
+    "Mereni/dmm-1.png",
+    "Cestina/Sloh",
     "TVY/zdroje/normalni_zdroje",
     "TVY/zdroje/zdroje_neprerusovaneho_napeti",
     "TVY/zdroje",
-    "TVY/architektura_pc/architektura_pc.md",
-    "Ekonomika/podnikani/03-01122023.md",
-    "Ekonomika/podnikani/02-28112023.md",
-    "Ekonomika/podnikani/01-20112023.md",
-    "Mereni/22/prot22.md",
-    "Mereni/22/Drawing 2023-12-07 10.20.29.excalidraw.md",
-    "OPS/souborove_systemy/souborove_systemy.md",
     "Mereni/22",
-    "OPS/OPS.md",
     "OPS/souborove_systemy",
-    "Site/PSB.md",
-    "TVY/booleova_algebra/booleova_algebra.md",
-    "TVY/booleova_algebra/pravidla_zjednodusovani/pravidla_zjednodusovani.md",
-    "TVY/booleova_algebra/pravidla_zjednodusovani/zakon_absorpce.md",
-    "TVY/booleova_algebra/logicke_funkce/logicke_funkce.md",
-    "Mereni/21/prot21.md",
-    "Mereni/21",
     "TVY/architektura_pc/harvard.png",
     "TVY/architektura_pc/neumann.png",
-    "TVY/architektura_pc",
-    "ANJ/05122023.md",
-    "ANJ/idk.md",
-    "ANJ/drymholidej.md",
-    "Nemcina/04-21112023.md",
-    "Nemcina/slovesa.md",
-    "Nemcina/nemcina.md",
-    "Dejepis/evropa-mezi-svetovymi-valkami.md",
-    "Mereni/chyby_mericiho_pristroje.md",
-    "Mereni/zmena_rozsahu_predradniku.excalidraw.md",
-    "ANJ",
-    "Cestina/Literatura/rozbory/19xx",
-    "Cestina/Literatura/rozbory",
     "assets/CRT.png",
     "assets/ekonomika pico.png",
     "assets/nabidkapoptavka.png",

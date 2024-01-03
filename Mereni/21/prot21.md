@@ -10,3 +10,11 @@
 	6. Součtového zesilovače
 	7. Logaritmického zesilovače
 	8. Exponenciálního zesilovače
+
+U2 = 10V
+U1 = 0.1V
+U10 = 0.05V
+
+Rozdilovy=500ohm, 1000ohm
+
+integracni = 10nF nebo 900nf
