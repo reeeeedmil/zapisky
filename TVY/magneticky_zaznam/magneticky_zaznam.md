@@ -35,3 +35,17 @@ Sektor je nejmenší adresovatelnou jednotkou disku
     
 2. **Řízení pohonu a otáček disku**: Elektronika HDD může také řídit pohyb motoru a otáčky disku. To zahrnuje regulaci rychlosti otáček disku podle potřeby a udržování optimálního chodu disku.
 
+## RAID
+Redundant Array of Independent Disks
+spojuje několik pevných disků do logického celku
+
+
+1. **RAID 0 (J_bod):** Zahrnuje dva nebo více disků a provádí distribuci dat napříč disky (stripping) pro zvýšení rychlosti čtení a zápisu dat. Nicméně, RAID 0 nenabízí žádnou redundanci, takže pokud selže jeden disk, mohou být ztracena všechna data.
+
+2. **RAID 1:** Používá minimálně dva disky, kde data jsou zrcadlena (mirroring). Každá informace je zálohována na dalším disku, což poskytuje zvýšenou spolehlivost. Avšak kapacita úložiště je poloviční z kapacity všech disků kvůli zrcadlení.
+
+3. **RAID 5:** Vyžaduje minimálně tři disky a kombinuje stripping dat s paritní kontrolou, což umožňuje obnovu dat v případě selhání jednoho disku. Kapacita úložiště je rozdělena mezi disky a je možné pokračovat v práci i po výpadku jednoho disku.
+
+![[raid5_3.png]]
+
+

@@ -98,7 +98,8 @@ vypočítat celkovou a relativní chybu pro rozsah 1000V
 | $\delta_p$ | = |$\delta_m$ | + |$\delta_R$ | -> |+- 0,8% |    +    | $\frac{+-2}{1999 }* 100$ |   =0,9
 
 
-b) Praktický příklad 
+## b) 
+Praktický příklad 
  hodnota na přístroji 1,78V
  rozsah 20V
 
@@ -114,5 +115,24 @@ tabulka viz. příklady
 
 
 ###### výsledná absolutní chyba 
+ $\Delta_p$ | = |$\Delta_m$ | + |$\Delta_R$ |   ->     $\frac{|\delta_M * U_M +\delta_R * U_R |}{100 }$ |   =+- 18,9
+
+
+## c)
+na přístroji 1,778 V
+rozsah 2 V
+
+
+###### celková relativní rozsahu 
+ $\delta_p$ | = |$\delta_R$ | + |$\delta_n$ |  
+ $\delta_p$ | = | 0,5 | + | $\frac{+-1}{1999}$| =0,55  
+
+###### relativní chyba pro naměřenou hodnotu 
+| $\delta_p$ | =   | $\delta_M$ | +   | $\delta_R$ |
+|$\delta_p$|  = 0,5 + $\frac{1}{1999}*100$ =1,125
+
+
+###### výsledná absolutní chyba 
+
 
 
