@@ -81,20 +81,6 @@ DMM má uvedené m. rozsahy v dekadických násobcích 2, jedná se o takzvaný 
 
 | Rozsah | Chyba | Rozlišení | 
 |-|-|-|
-|200mV| $\pm{}$ 0.5%rdg|100mV|
-| 2V | $\pm{}$ 1%digit|1mV|
-
-$\pm{}$ 0.5%rdg = $\delta{}_M$
-$\pm{}$ 1%digit = $\delta{}_R$ (nebo d)
-
-- RDG = Reading
-$$ 
-| \delta_P | = | \delta_M| + |\delta_R| = |\pm 0.5\%| + |\frac{d}{D}*100| = |0.5|+|\frac{\pm 1}{1999}*100| = \pm 0.55\%
-$$
-- Pro měření napětí 15V na rozsahu 20V
-0.57%
-$$|\delta_P|=|\delta_M|+|\delta_R*\frac{U_R}{U_M}|=|\pm 0.5\%| + |0.05*\frac{20V}{15V}|=\pm 0.57\%$$
-
 
 ## Praktický příklad
 ![[dmm-1.png]]
@@ -112,3 +98,27 @@ $$U_S \space\epsilon \space <1.768; 1.788>V$$
 Z výsledků je vidět, že v tomto případě je chyba podstatně větší. Je tedy evidentní, že rozsah nebyl pro toto napětí zvolen správně, a proto nebylo možné efektivně využít přesnost měřicího přístroje. Na displeji MP si rovněž musíme všimnout, že první číslice není obsazená. To znamená, že pro měření tohoto napětí je multimetr přepnut na zbytečně vysoký rozsah.
 
 ## Výpočet chyby měření
+
+| Rozsah | Chyba | Rozlišení |
+| ---- | ---- | ---- |
+| 200mV | +-0.5%rdg | 100mV |
+| 2V | +-1digit | 1mV |
+| 20V |  | 10mV |
+| 200V |  | 100mV |
+| 1000V |  | 1V |
+
+| Rozsah | Chyba     | Rozlišení |
+| ------ | --------- | --------- |
+| 200mA  | +-0.5%rdg +-1digit | 0.1mA     |
+| 2mA     |   | 1mA       |
+| 200mA    |           | 10mA      |
+| 200mA   | +-1.2%rdg +-1digit          | 100mA     |
+| 2A  | +-2%rdg +-5digit          | 1mA        |
+svorka ampérmeter do série, paralelně rezistor a voltmetr, svorka
+Přímým měřením zjistíme hodnotu napětí a proudu. Vypočteme hodnotu výkonu P.
+Výslednou chybu odvodíme z chyb přímo měřených veličin.
+Protože obě veličiny jsou udány ve svých jednotkách, nelze jednoduše sečíst absolutní chyby.
+
+Byly naměřeny tyto hodnoty:
+I = 125.4mA
+U = 15.56V
