@@ -3,3 +3,5 @@
 - [2. zápis](./uvod/02-11092023.md)
 - [3. zápis](./uvod/03-12092023.md)
 - [4. zápis](./uvod/04-13092023.md)
+
+10.1. ekonomika test

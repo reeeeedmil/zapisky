@@ -13,7 +13,7 @@ OK
 OK
 # Seznam
 - Počet děl
-	- 18 z 20
+	- 20 z 20
 
 - Závorka
 	- Pianista
