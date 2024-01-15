@@ -13,7 +13,7 @@ OK
 OK
 # Seznam
 - Počet děl
-	- 18 z 20
+	- 20 z 20
 
 - Závorka
 	- Pianista
@@ -39,30 +39,32 @@ OK
 - Hamlet
 ## Literatura 19. století
 ### Světová
-- Povídky - Edgar Allan Poe
-	- Jáma a kyvadlo
+- Povídky - Edgar Allan Poe 
+	- Jáma a kyvadlo - Horor
 	- Zlatý brouk
-	- Zánik domů Usherů
-	- Vražda v ulici Morgue
+	- Zánik domů Usherů - Horor?
+	- Vražda v ulici Morgue - Detektivka
 	- Předčasný pohřeb
-- Hrabě Monte Cristo - Alexandre Dumas
+- Hrabě Monte Cristo - Alexandre Dumas - dobrodružný román
 - Podivný případ Dr. Jekylla a pana Hyda - Robert Louis Stevenson
 ### Česká
-- Král Lávra - Karel Havlíček Borovský
-- Kytice - Karel Jaromír Erben
+- Král Lávra - Karel Havlíček Borovský - realistický dílo, psaný v době romantismu
+- Kytice - Karel Jaromír Erben - romantismus
 ## Literatura 20. a 21. století
 ### Světová
-- Proměna - Franz Kafka
+- Proměna - Franz Kafka - expresionismus
 - Na západní frontě klid - Erich Maria Remarque
-- 1984 - George Orwell
-- 451° Fahrenheita - Ray Bradbury
+- 1984 - George Orwell - antiutopie
+- 451° Fahrenheita - Ray Bradbury- antiutopie
 - Mechanický pomeranč - Anthony Burgess
-- 2001: Vesmírná Odysea - Arthur Charles Clarke
-- (Pianista - Wladyslav Szpilman)
-- Alchymista - Paulo Coelho
+- 2001: Vesmírná Odysea - Arthur Charles Clarke - scifi
+- Pianista - Wladyslaw Szpilman
+- Alchymista - Paulo Coelho - magický realismus
+- Hobit - Tolkien - fantasy
 
 ### Česká
-- Krysař - Viktor Dyk
-- R.U.R. - Karel Čapek
+- Krysař - Viktor Dyk - generace Buřičů
+- R.U.R. - Karel Čapek - meziválečné české drama, antiutopie
 - Spalovač Mrtvol - Ladislav Fuks
 - Hospoda na mýtince - Divadlo Járy Cimrmana
+- Záskok - Divadlo Járy Cimrmana

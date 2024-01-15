@@ -4,22 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "be0a599239a138af",
+        "id": "f75f42c28cacd81c",
         "type": "tabs",
         "children": [
           {
-            "id": "2ec891c284586c49",
+            "id": "5cd7e5e6fc9a0d55",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ekonomika/trh/03-29092023.md",
+                "file": "Nemcina/04-21112023.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c9ec4afddfb06b21",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "TVY/magneticky_zaznam/magneticky_zaznam.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -69,8 +82,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "e693cd768925de92",
@@ -86,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ekonomika/trh/03-29092023.md",
+                "file": "TVY/magneticky_zaznam/magneticky_zaznam.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Ekonomika/trh/03-29092023.md",
+                "file": "TVY/magneticky_zaznam/magneticky_zaznam.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Ekonomika/trh/03-29092023.md"
+                "file": "TVY/magneticky_zaznam/magneticky_zaznam.md"
               }
             }
           },
@@ -136,7 +148,9 @@
             "state": {
               "type": "all-properties",
               "state": {
-                "sortOrder": "frequency"
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
               }
             }
           }
@@ -150,6 +164,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -160,48 +175,51 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "2ec891c284586c49",
+  "active": "c9ec4afddfb06b21",
   "lastOpenFiles": [
-    "Ekonomika/trh/03-29092023.md",
-    "Excalidraw/Drawing 2023-09-29 10.06.23.excalidraw.md",
-    "Mereni/lissajousovy_obrazce.md",
-    "Mereni/osciloskopy.md",
-    "Mereni/zmena_rozsahu_predradniku.excalidraw.md",
-    "Excalidraw/Drawing 2023-09-25 12.56.12.excalidraw.md",
-    "Ekonomika/trh/02-25092023.md",
-    "Ekonomika/uvod/opakovani-26092023.md",
-    "Excalidraw/Drawing 2023-09-26 09.06.34.excalidraw.md",
-    "Excalidraw/Drawing 2023-09-26 08.58.36.excalidraw.md",
-    "Dejepis/03-22092023.md",
-    "assets/ekonomika pico.png",
-    "Excalidraw/Drawing 2023-09-24 16.19.47.excalidraw.md",
-    "index.md",
-    "Mereni/index.md",
-    "Excalidraw",
-    "Ekonomika/trh/01-22092023.md",
-    "assets/nabidkapoptavka.png",
-    "Ekonomika/uvod/08-22092023.md",
-    "Ekonomika/trh",
-    "Ekonomika/uvod/02-11092023.md",
-    "Ekonomika/uvod/01-08092023.md",
-    "Ekonomika/uvod/07-19092023.md",
-    "assets/idk.jpg",
-    "Cestina/Literatura/smery/opakovani-22092023.md",
-    "Cestina/Literatura/smery/existencialismus.md",
+    "Mereni/chyby_mericiho_pristroje.md",
+    "pevnydisk_cluster.jpeg",
+    "TVY/magneticky_zaznam/magneticky_zaznam.md",
+    "TVY/magneticky_zaznam",
+    "Dejepis/Evropa mezi světovými válkami.md",
+    "64232BCD-BB17-4D37-8913-E54353D92B58.jpeg",
+    "Dejepis/01-08092023.md",
+    "TVY/zdroje/zdroje.md",
+    "TVY/zdroje/normalni_zdroje/normalni_zdroje.md",
+    "TVY/zdroje/normalni_zdroje",
+    "TVY/architektura_pc/neumann.png",
+    "TVY/architektura_pc/harvard.png",
+    "TVY/architektura_pc/architektura_pc.md",
+    "TVY/architektura_pc",
+    "Nemcina/Drawing 2023-12-19 10.11.56.excalidraw.md",
+    "Mereni/dmm-1.png",
+    "Mereni/22/prot22.md",
+    "Mereni/22/Drawing 2023-12-07 10.20.29.excalidraw.md",
+    "Mereni/22",
+    "Mereni/21/prot21.md",
+    "Mereni/21",
+    "Matika/vektory.md",
+    "Matika",
+    "Excalidraw/Drawing 2023-12-13 10.39.53.excalidraw.md",
+    "Ekonomika/podnikani/05-15122023.md",
+    "Ekonomika/podnikani/04-12122023.md",
+    "Ekonomika/podnikani/03-01122023.md",
+    "Dejepis/evropa-mezi-svetovymi-valkami.md",
+    "Cestina/Sloh/veci_k_slohovkam.md",
+    "Cestina/Sloh",
+    "Cestina/Literatura/smery/15122023.md",
+    "Cestina/Literatura/rozbory/do-1800/hamlet.md",
+    "Cestina/Literatura/rozbory/do-1800",
+    "ANJ/05122023.md",
+    "Site/PSB.md",
+    "TVY/booleova_algebra/logicke_funkce/NOT.md",
+    "TVY/booleova_algebra/logicke_funkce/logicke_funkce.md",
+    "TVY/ciselne_soustavy/prevody/binarni-osmickova.md",
+    "Cestina/Literatura/rozbory/19xx/2-polovina",
+    "Cestina/Literatura/rozbory/19xx/1-polovina",
     "assets/CRT.png",
-    "TVY/TVY.md",
-    "TVY/ciselne_soustavy/sestnactkova.md",
-    "TVY/ciselne_soustavy/osmickova.md",
-    "TVY/ciselne_soustavy/desitkova.md",
-    "TVY/ciselne_soustavy/ciselne_soustavy.md",
-    "Site/prakticka_cast",
-    "Cestina/Literatura/smery",
-    "TVY/ciselne_soustavy/prevody",
-    "assets/pyramida_potreb.png",
-    "assets",
-    "New folder",
-    "Nemcina",
-    "Cestina/Mluvnice",
-    "Dejepis/Untitled"
+    "assets/ekonomika pico.png",
+    "assets/nabidkapoptavka.png",
+    "assets/idk.jpg"
   ]
 }
