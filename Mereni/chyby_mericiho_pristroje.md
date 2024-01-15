@@ -98,6 +98,8 @@ $$U_S \space\epsilon \space <1.768; 1.788>V$$
 Z výsledků je vidět, že v tomto případě je chyba podstatně větší. Je tedy evidentní, že rozsah nebyl pro toto napětí zvolen správně, a proto nebylo možné efektivně využít přesnost měřicího přístroje. Na displeji MP si rovněž musíme všimnout, že první číslice není obsazená. To znamená, že pro měření tohoto napětí je multimetr přepnut na zbytečně vysoký rozsah.
 
 ## Výpočet chyby měření
+3 1/2
+1999 = max hodnota
 
 | Rozsah | Chyba | Rozlišení |
 | ---- | ---- | ---- |
@@ -114,7 +116,7 @@ Z výsledků je vidět, že v tomto případě je chyba podstatně větší. Je 
 | 200mA    |           | 10mA      |
 | 200mA   | +-1.2%rdg +-1digit          | 100mA     |
 | 2A  | +-2%rdg +-5digit          | 1mA        |
-svorka ampérmeter do série, paralelně rezistor a voltmetr, svorka
+vstup Udc svorka ampérmeter MP1 do série, paralelně  Ur1 rezistor a voltmetr MP2, svorka
 Přímým měřením zjistíme hodnotu napětí a proudu. Vypočteme hodnotu výkonu P.
 Výslednou chybu odvodíme z chyb přímo měřených veličin.
 Protože obě veličiny jsou udány ve svých jednotkách, nelze jednoduše sečíst absolutní chyby.
@@ -122,3 +124,34 @@ Protože obě veličiny jsou udány ve svých jednotkách, nelze jednoduše seč
 Byly naměřeny tyto hodnoty:
 I = 125.4mA
 U = 15.56V
+P = 1,95W
+$\delta{}_A = 1,28\%$
+$\delta{}_V = |\delta{}_M|+|\delta{}_R| = |\pm{}0.5\%| + |\frac{d}{D}*100*\frac{U_R}{U_M}| = |\pm{}0.5\%| + |\frac{\pm{}1}{1999} * 100 * \frac{20V}{15,56V}| = \pm{}0.56\%$
+$\delta{}_C = \delta{}_I + \delta{}_V = |1,28 + 0,56| = \pm{}1,84\%$
+$P = 1,95W \pm{}1,84\%$
+
+
+
+| Rozsah | Chyba | Rozlišení |
+| ---- | ---- | ---- |
+| 20mA | +-0.8%rdg +-1digit | 0.1mA |
+| 2mA |  | 1mA |
+| 200mA |  | 10mA |
+| 200mA | +-1.2%rdg +-3digit | 100mA |
+
+| Rozsah | Chyba | Rozlišení |
+| ---- | ---- | ---- |
+| 200mV | +-0.5%rdg | 100mV |
+| 2V | +-1digit | 1mV |
+| 20V |  | 10mV |
+| 200V |  | 100mV |
+| 1000V |  | 1V |
+
+I = 18.5mA
+U = 19.6V
+R = $1060\Omega$
+3 1/2
+\delta_C = \pm{}1.405\%
+
+$\delta{}_I = |\delta{}_R| + |\delta{}_M| = |\pm{}0.8\%| + |\frac{d}{D} * 1000 * |\frac{I_R}{I_M}|$
+$\delta{}_I = |\pm{}0.8\%| + |\frac{1}{}|$

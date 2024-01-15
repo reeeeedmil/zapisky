@@ -6,7 +6,7 @@
 4. Závislosti zakreslete a určete použitelnost pro stabilizátor 7805
 5. Zkontrolujte ohmmetrem a zapište i odpory vinutí transformátoru.
 ## Teoretický rozbor
-Jednocestný usměrňovač je pro ověření vlastností usměrňovače vhodnější protože osciloskop má propojené země a lze snadněji zobrazit vzájemnou závislost průběhů napětí v obvodu včetně proudu snímaného na odporu $1\Omega$. Měřit se musí proti společné zemi, což předpokládá inverzi jednoho z průběhů. Navíc i exponenciální pokles napětí při vybíjení kondenzátoru je názornější, protože je samozřejmě delší než u normálně používaného dvoucestného zapojení. Použité transformátory mají větší vnitřní odpor a klesá u nich při odběru porudu napětí. Autotranformátorem nastavíme napětí na primáru tak, aby bylo snadné regulovat proud od 0,1A a napětí na osciloskopu nebyly příliš velké.
+Jednocestný usměrňovač je pro ověření vlastností usměrňovače vhodnější protože osciloskop má propojené země a lze snadněji zobrazit vzájemnou závislost průběhů napětí v obvodu včetně proudu snímaného na odporu $1\Omega$. Měřit se musí proti společné zemi, což předpokládá inverzi jednoho z průběhů. Navíc i exponenciální pokles napětí při vybíjení kondenzátoru je názornější, protože je samozřejmě delší než u normálně používaného dvoucestného zapojení. Použité transformátory mají větší vnitřní odpor a klesá u nich při odběru porudu napětí. Autotranformátorem nastavíme napětí na priIáru tak, aby bylo snadné regulovat proud od 0,1A a napětí na osciloskopu nebyly příliš velké.
 
 
 | I mA   | 0   | 133   | 203  | 297  | 398 | 501 | poznámka   |
@@ -17,3 +17,5 @@ Jednocestný usměrňovač je pro ověření vlastností usměrňovače vhodněj
 | Pk-Pk  | 0.4   | 4.20  | 6.0  | 6.60    | 5.2    | 2.2    | osciloskop |
 | Uac V  | 0.005   | 1.284 | 1.77 | 2.077    | 1.74    | 0.717    |            |
 | Udc V  | 15.0   | 13.65 | 9.27 | 4.850    | 2.31    | 0.701    |            |
+
+
