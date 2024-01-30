@@ -111,7 +111,7 @@ Z výsledků je vidět, že v tomto případě je chyba podstatně větší. Je 
 
 | Rozsah | Chyba     | Rozlišení |
 | ------ | --------- | --------- |
-| 200mA  | +-0.5%rdg +-1digit | 0.1mA     |
+| 200uA  | +-0.5%rdg +-1digit | 0.1mA     |
 | 2mA     |   | 1mA       |
 | 200mA    |           | 10mA      |
 | 200mA   | +-1.2%rdg +-1digit          | 100mA     |
