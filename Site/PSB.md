@@ -175,3 +175,18 @@ Zabezpečení přístupu na zařízení
 - Jak počítat?
 - Proč podsítě?
 - Příklad (stačí podsíťovat třídu C)
+
+
+# Zařízení na sítí
+- Směrovač
+- Přepínač
+
+
+# IP adresa
+
+# co je ve smerovaci tabulce
+- Primo pripojene spoje (C jakoze connected)
+- S - statika
+
+- Cílové sítě + prefix + interface
+- Metrika
